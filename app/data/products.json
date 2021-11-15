@@ -1,0 +1,52 @@
+[
+  {
+    "uuid": "997dd10b-1122-4836-a4f0-fba3187a04c9",
+    "title": "One Piece Film Gold",
+    "description": "Película de la obra",
+    "imageURL": "images/One Piece Movie.jpg",
+    "unit": "pieza",
+    "stock": 4,
+    "pricePerUnit": 300,
+    "category": "Movies"
+  },
+  {
+    "uuid": "fd7bdd0e-5cdc-4427-be50-93bf35adedb5",
+    "title": "One Piece #100",
+    "description": "Nuevo tomo de esta serie",
+    "imageURL": "images/One Piece 100.jpg",
+    "unit": "pieza",
+    "stock": 4,
+    "pricePerUnit": 199,
+    "category": "Manga"
+  },
+  {
+    "uuid": "9ba2a626-aaa0-452d-a85e-50e483619ff9",
+    "title": "One Piece Blue",
+    "description": "Guía del manga",
+    "imageURL": "images/One Piece Blue.jpg",
+    "unit": "pieza",
+    "stock": 10,
+    "pricePerUnit": 250,
+    "category": "Manga"
+  },
+  {
+    "uuid": "6ccc5d66-e6ae-4c2c-990e-7c04cb43119d",
+    "title": "One Piece Figure",
+    "description": "Figura de acción",
+    "imageURL": "images/One Piece Figure.jpg",
+    "unit": "pieza",
+    "stock": 123,
+    "pricePerUnit": 1200,
+    "category": "Figura"
+  },
+  {
+    "uuid": "8501ea5f-e474-4d9f-8eb5-ae16ce1e3136",
+    "title": "One Piece Stampede",
+    "description": "Última película de la serie",
+    "imageURL": "https://sm.ign.com/ign_latam/screenshot/default/one-piece-stampede_9qzk.jpg",
+    "unit": "pieza",
+    "stock": 321,
+    "pricePerUnit": 400,
+    "category": "Movie"
+  }
+]
